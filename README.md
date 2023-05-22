@@ -2,7 +2,9 @@
 
 <hr>
 
-## **¿Quien soy?**   `rgb(9, 105, 218)`
+## **¿Quien soy?** 
+
+Soy Desarrollador Full Stack 
 <!--
 **Yonner-suarez/Yonner-suarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
