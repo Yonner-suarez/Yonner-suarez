@@ -34,16 +34,15 @@ Con una gran formación y dedicación domino el lenguaje de programación JavaSc
 ## **¿Cómo me contactas?**
 
 <picture style='width:50px'>
-<a href='https://www.linkedin.com/in/yonner-suarez-247a29254/'>
+<a href='https://www.linkedin.com/in/yonner-suarez-247a29254/' style='width:50px'>
 <img alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style='width:50px'>
 </a>
 </picture>
 
 <hr>
 
-<picture>
-</a>
-<a href='https://api.whatsapp.com/send?phone=573186750868&text=Hi_Yonner'>
+<picture style='width:50px'>
+<a href='https://api.whatsapp.com/send?phone=573186750868&text=Hi_Yonner' style='width:50px'>
 <img alt="whatsApp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" style='width:50px'>
 </a>
 </picture>
