@@ -36,12 +36,20 @@ Con una gran formación y dedicación domino el lenguaje de programación JavaSc
 <picture>
 <a href='https://www.linkedin.com/in/yonner-suarez-247a29254/'>
 <img alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style='width:50px'>
+</picture>
+
 <hr>
+
+<picture>
 </a>
 <a href='https://api.whatsapp.com/send?phone=573186750868&text=Hi_Yonner'>
 <img alt="whatsApp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" style='width:50px'>
 </a>
+</picture>
+
 <hr>
+
+<picture>
 <img alt="email" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" style='width:50px'>
 <p style='display:block'>yonnerhazziel@gmail.com</p>
 </picture>
