@@ -4,7 +4,7 @@
 
 ## **¿Quien soy?** 
 
-Soy Desarrollador Full Stack 
+Soy Desarrollador Full Stack apacionado por el continuo aprendizaje de las diversas tecnologías que existen en este maravilloso mundo de la progeamación, convencido de que el crecimiento personales gracias a las parsonas que nos rodean. tengo como objetivo crecer no solointelectualmente sino humanamente
 <!--
 **Yonner-suarez/Yonner-suarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
