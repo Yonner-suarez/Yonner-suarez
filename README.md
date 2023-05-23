@@ -16,7 +16,7 @@ Con una gran formación y dedicación domino el lenguaje de programación JavaSc
 
 ## **¿Que tecnologías uso?**
 
-<picture style='background-color: transparent;'>
+<div style='background-color: transparent;'>
 <img alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" style='width:50px'>
 <img alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" style='width:35px'>
 <img alt="Redux" src="https://cdn.worldvectorlogo.com/logos/redux.svg" style='width:50px'>
@@ -27,7 +27,7 @@ Con una gran formación y dedicación domino el lenguaje de programación JavaSc
 <img alt="Express" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" style='width:120px; background-color: white'>
 <img alt="Postgres" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" style='width:50px'>
 <img alt="nodemon" src="https://seeklogo.com/images/N/nodemon-logo-9F66F45AB1-seeklogo.com.png?v=637945119890000000" style='width:50px'>
-</picture>
+</div>
 
 <hr>
 
